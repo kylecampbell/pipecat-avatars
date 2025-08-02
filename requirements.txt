@@ -1,0 +1,2 @@
+pipecat-ai[webrtc,runner,openai,silero,tavus,heygen]>=0.0.77
+python-dotenv~=1.0
