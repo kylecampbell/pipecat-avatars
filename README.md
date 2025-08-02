@@ -32,7 +32,6 @@ OR
 
 ### HeyGen - for avatar
 
-Unfortunately, to use HeyGen's interactive avatar, you must pay for creator plan 😔
 Visit https://heygen.com to get your `HEYGEN_API_KEY`.
 
 ## Usage
